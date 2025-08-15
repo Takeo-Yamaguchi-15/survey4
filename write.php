@@ -1,4 +1,4 @@
-<?php // write.php // ファイル識別用コメント
+<?php
 
 session_start();
 require __DIR__ . '/funcs.php';

@@ -1,5 +1,5 @@
 <?php
-// bm_list_view.php
+
 session_start();
 require __DIR__ . '/funcs.php';
 sschk();                 // ← 認証チェック

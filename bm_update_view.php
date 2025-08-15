@@ -1,5 +1,4 @@
 <?php
-// bm_update_view.php
 
 session_start();
 require __DIR__ . '/funcs.php';

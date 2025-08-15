@@ -1,5 +1,5 @@
 <?php
-// user_reg.php
+
 session_start();
 require __DIR__ . '/funcs.php';
 sschk();

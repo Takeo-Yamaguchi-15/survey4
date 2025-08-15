@@ -1,6 +1,4 @@
 <?php
-// bm_update.php
-// ※ header() を使うため、このファイルでは何も出力しないこと（BOM含む）
 
 session_start();
 require __DIR__ . '/funcs.php';
